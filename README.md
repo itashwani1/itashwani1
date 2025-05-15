@@ -1,13 +1,13 @@
-# Hi, I'm Ashwani
+# Hi, I'm Ashwani 
 
 I'm a passionate college student currently exploring the world of **Technology and Computer Science**. I enjoy building projects, learning new programming concepts, and diving deep into subjects like **Operating Systems** and **Computer Architecture**.
 
-This GitHub is my digital notebook â€” where I share what I learn, what I build, and how I grow.
+This GitHub is my digital notebook — where I share what I learn, what I build, and how I grow.
 
-- ðŸŒ± Iâ€™m currently learning: Python, C, HTML, CSS, Assembly Language
-- ðŸ’» Interests: Web Development, System Programming, Environmental Science
-- ðŸŽ¯ Goal: Cracking internships and becoming a full-stack developer
-- ðŸ› Fun fact: I love *aloo ki sabji* and have even planned to cook it myself!
+- 🌱 I’m currently learning: Python, C, HTML, CSS, Assembly Language
+- 💻 Interests: Web Development, System Programming, Environmental Science
+- 🎯 Goal: Cracking internships and becoming a full-stack developer
+- 🍛 Fun fact: I love *aloo ki sabji* and have even planned to cook it myself!
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwani755/)
@@ -26,4 +26,4 @@ This GitHub is my digital notebook â€” where I share what I learn, what I b
 
 ---
 
-**â€œLearning never exhausts the mind.â€** â€” *Leonardo da Vinci*
+**“Learning never exhausts the mind.”** — *Leonardo da Vinci*
