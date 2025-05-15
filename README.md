@@ -4,7 +4,7 @@ I'm a passionate college student currently exploring the world of **Technology a
 
 This GitHub is my digital notebook — where I share what I learn, what I build, and how I grow.
 
-- 🌱 I’m currently learning: Python, C, HTML, CSS, Assembly Language  
+- 🌱 I’m currently learning: Java with DSA, full stack development & Assembly Language  
 - 💻 Interests: Web Development, System Programming, Environmental Science  
 - 🎯 Goal: Cracking internships and becoming a full-stack developer
 
