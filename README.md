@@ -34,12 +34,6 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 
 ---
 
-## Most Used Languages:
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
-
----
-
 ## GitHub Stats:
 
 ![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwani720&show_icons=true&theme=midnight-purple)  
