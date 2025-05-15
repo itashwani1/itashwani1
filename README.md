@@ -41,7 +41,7 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 ## GitHub Stats:
 
 ![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwanipandit&show_icons=true&theme=midnight-purple)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanipandit&layout=compact&theme=midnight-purple)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
 
 ---
 
