@@ -9,8 +9,10 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 - 🎯 Goal: Cracking internships and becoming a full-stack developer
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwani755/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwani755/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:itashwani1@gmail.com)
+
+---
 
 ## Languages and Tools:
 
@@ -28,9 +30,18 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 
 **Core Subjects:** Operating Systems (OS), Computer Networks (CN)
 
+---
+
+## Most Used Languages:
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
+
+---
+
 ## GitHub Stats:
-![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwanipandit&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani&layout=compact&theme=midnight-purple)
+
+![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwanipandit&show_icons=true&theme=midnight-purple)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanipandit&layout=compact&theme=midnight-purple)
 
 ---
 
