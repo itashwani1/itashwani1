@@ -48,4 +48,8 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 
 ![Ashwani's GitHub Streak](https://streak-stats.demolab.com?user=Ashwani720&theme=dark&hide_border=true)
 
+### GitHub Contribution Graph:
+
+[![Ashwani's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashwani720&theme=react-dark)](https://github.com/Ashwani720)
+
 **“Learning never exhausts the mind.”** — *Leonardo da Vinci*
