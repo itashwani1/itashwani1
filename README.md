@@ -42,7 +42,6 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 
 ![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwani720&show_icons=true&theme=midnight-purple)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani720&layout=compact&theme=midnight-purple)
-
 ---
 
 **“Learning never exhausts the mind.”** — *Leonardo da Vinci*
