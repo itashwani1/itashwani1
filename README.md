@@ -1,24 +1,20 @@
-# Hi, I'm Ashwani 
+# Hi, I'm Ashwani
 
 I'm a passionate college student currently exploring the world of **Technology and Computer Science**. I enjoy building projects, learning new programming concepts, and diving deep into subjects like **Operating Systems** and **Computer Architecture**.
 
-This GitHub is my digital notebook — where I share what I learn, what I build, and how I grow.
+This GitHub is my digital notebook â€” where I share what I learn, what I build, and how I grow.
 
-- 🌱 I’m currently learning: Python, C, HTML, CSS, Assembly Language
-- 💻 Interests: Web Development, System Programming, Environmental Science
-- 🎯 Goal: Cracking internships and becoming a full-stack developer
-- 🍛 Fun fact: I love *aloo ki sabji* and have even planned to cook it myself!
+- ðŸŒ± Iâ€™m currently learning: Python, C, HTML, CSS, Assembly Language
+- ðŸ’» Interests: Web Development, System Programming, Environmental Science
+- ðŸŽ¯ Goal: Cracking internships and becoming a full-stack developer
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwani755/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:itashwani1@gmail.com)
 
 ## Languages and Tools:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Programming languages such as **C, C++, Python, Java, JavaScript, SQL, PHP** and core CS subjects like **Operating Systems** and **Computer Networks**.  
+Also familiar with **HTML, CSS, JS, Node.js, Express.js, MongoDB** with a strong foundation in **Java** and **JavaScript**.
 
 ## GitHub Stats:
 ![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwanipandit&show_icons=true&theme=midnight-purple)
@@ -26,4 +22,4 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 
 ---
 
-**“Learning never exhausts the mind.”** — *Leonardo da Vinci*
+**â€œLearning never exhausts the mind.â€** â€” *Leonardo da Vinci*
