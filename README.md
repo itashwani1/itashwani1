@@ -42,7 +42,7 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 
 ### Contribution Streak:
 
-![Ashwani's GitHub Streak](https://streak-stats.demolab.com?user=itashwani1&theme=dark&hide_border=true)
+![Ashwani's GitHub Streak](https://streak-stats.demolab.com?username=itashwani1&theme=dark&hide_border=true)
 
 ### GitHub Contribution Graph:
 
