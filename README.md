@@ -48,8 +48,6 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 
 [![Ashwani's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itashwani1&theme=react-dark)](https://github.com/itashwani1)
 
-# 📊 GitHub Contribution Graph
-[![Ashwani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itashwani1&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 **“Learning never exhausts the mind.”** — *Leonardo da Vinci*
