@@ -36,7 +36,7 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 
 ## GitHub Stats
 
-![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=itashwani1&show_icons=true&theme=midnight-purple)
+![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=itashwani1&show_icons=true&theme=midnight-purple&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itashwani1&layout=compact&theme=midnight-purple)
 
@@ -45,13 +45,8 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 ![GitHub Streak](https://streak-stats.demolab.com?user=itashwani1&theme=dark&hide_border=true)
 
 
+
 ---
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=itashwani1&theme=dark&hide_border=true)](https://github.com/itashwani1)
-
-
 
 
 **“Learning never exhausts the mind.”** — *Leonardo da Vinci*
