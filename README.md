@@ -44,6 +44,9 @@ This GitHub is my digital notebook — where I share what I learn, what I build,
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=itashwani1&theme=dark&hide_border=true)
 
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itashwani1&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
